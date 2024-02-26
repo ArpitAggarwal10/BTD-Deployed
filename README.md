@@ -6,13 +6,13 @@ Dataset MRI Images 👉🏻 https://www.kaggle.com/navoneel/brain-mri-images-for
 
 ---
 
-[![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)]()
+[![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/ArpitAggarwal10/BTD-Deployed)
 
 <!-- PROJECT LOGO -->
 
 <br />
 <p align="center">
-<a href="">
+<a href="https://github.com/ArpitAggarwal10/BTD-Deployed">
   <img src="images/logo.png" alt="Logo" width="400" height="300">
 </a>
 
@@ -28,7 +28,7 @@ In this project, I designed & built an automatic brain tumor segmentation techni
 
 ## About The Project
 
-<a href="">
+<a href="https://github.com/ArpitAggarwal10/BTD-Deployed">
     <img src="images/mini-brain.png" width="80" height="80">
 </a>
 
@@ -114,7 +114,7 @@ Create a virtualenv. (optional)
 
 1. Clone the repo
     ```sh
-    git clone 
+    git clone https://github.com/ArpitAggarwal10/BTD-Deployed.git
     ```
 
 2. Install required libraries
@@ -145,19 +145,19 @@ _For more examples, please refer to the [Documentation](#)_
                                                                 — Isaac Newton
 ---
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]()
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ArpitAggarwal10/BTD-Deployed)
 
 <p align="center">
-<a href="">
+<a href="https://github.com/ArpitAggarwal10/BTD-Deployed">
   <img src="images/yes.png" alt="yes" width="900">
 </a>
 
 <p align="center">
-<a href="">
+<a href="https://github.com/ArpitAggarwal10/BTD-Deployed">
   <img src="images/no.png" alt="no" width="900">
 </a>
 
 <p align="center">
-<a href="">
+<a href="https://github.com/ArpitAggarwal10/BTD-Deployed">
   <img src="images/invalid.png" alt="invalid" width="900">
 </a>
