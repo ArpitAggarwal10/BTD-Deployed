@@ -1,0 +1,5 @@
+services:
+  - name: braintumor-detection
+    env: python
+    build_command: pip install -r requirements.txt
+    start_command: python app.py
